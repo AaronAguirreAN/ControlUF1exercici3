@@ -262,7 +262,7 @@
     <TextView
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:textSize="10sp"
+        android:textSize="12sp"
         android:text="[Aarón Aguirre]"
         android:textColor="@color/colorGreen"
         app:layout_constraintStart_toStartOf="parent"
